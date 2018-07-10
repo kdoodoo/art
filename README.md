@@ -1,2 +1,2 @@
-# art
-digital art repo for Don Kim
+# Art
+Digital interactive art repo by Don Kim.
